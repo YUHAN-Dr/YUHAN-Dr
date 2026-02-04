@@ -9,4 +9,4 @@ I'm an Economist turning Data Scientist, specializing in **Supply Chain Analytic
   - **ML/DL:** PyTorch, Scikit-learn, PyTorch Geometric
   - **Tools:** Docker, Git, VS Code
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUHAN-Dr&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YUHAN-Dr&theme=radical&hide_border=true)](https://git.io/streak-stats)
